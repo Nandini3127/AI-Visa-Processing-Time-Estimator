@@ -39,6 +39,8 @@ Maximum processing time: 40 days
 Conclusion:
 Dataset is cleaned and preprocessed.
 Ready for Exploratory Data Analysis (EDA) and Machine Learning model building.
+This dataset is synthetically generated for academic and experimental purposes.
+It simulates realistic visa processing scenarios.
 
 How to Run the Code:
 Requirements
