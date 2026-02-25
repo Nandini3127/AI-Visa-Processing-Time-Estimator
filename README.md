@@ -54,3 +54,45 @@ Open the folder in VS Code / Jupyter Notebook / Terminal.
 
 Run the Python file:
 python Milestone1_Data_Preprocessing.py
+
+
+# AI Enabled Visa Status Prediction and Processing Time Estimator
+📌 Project Overview
+This project predicts visa processing time using Machine Learning based on historical visa application data. It helps applicants estimate how long their visa process may take.
+🎯 Objectives
+- Predict visa processing time
+- Analyze trends in visa applications
+- Reduce uncertainty for applicants
+📊 Features
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering (month extraction)
+- Machine Learning model (Random Forest)
+- Processing time prediction
+🧠 Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+⚙️ Model Details
+- Algorithm: Random Forest Regressor
+- Evaluation Metric: Mean Absolute Error (MAE)
+📁 Dataset
+The dataset contains:
+- Application date
+- Decision date
+- Country
+- Visa category
+- Processing time
+
+(Note: A cleaned/sample dataset is uploaded due to size limitations.)
+🚀 How to Run
+1. Open the notebook `model.ipynb`
+2. Run all cells
+3. View predictions and outputs
+📈 Output
+The model predicts estimated visa processing time in days (or range).
+🏁 Conclusion
+This project provides a data-driven approach to estimate visa processing time and improve transparency.
+
+---
